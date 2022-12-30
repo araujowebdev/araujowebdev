@@ -4,19 +4,23 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="rwsaraujo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
-  <img align="center" alt="rwsaraujo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="rwsaraujo-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="rwsaraujo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="rwsaraujo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="rwsaraujo-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="rwsaraujo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=fff">
+  <img src="https://img.shields.io/badge/CSS-42A5F5?style=for-the-badge&logo=css3&logoColor=fff">
+  <img src="https://img.shields.io/badge/SASS-CE679A?style=for-the-badge&logo=sass&logoColor=fff">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7E018?style=for-the-badge&logo=javascript&logoColor=000">
+  <img src="https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=000">
+  <img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=fff">
+  <img src="https://img.shields.io/badge/PHP-787CB4?style=for-the-badge&logo=php&logoColor=fff">
 </div>
 
 <br>
 
 <div align="center"> 
-  <a href = "mailto:araujowebdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rwsaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+  <a href = "mailto:araujowebdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-fff?style=for-the-badge&logo=gmail&logoColor=f00">
+  </a>
+  <a href="https://www.linkedin.com/in/rwsaraujo" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff">
+  </a>
+
 </div>
