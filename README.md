@@ -5,7 +5,7 @@
 
 <div style="display: inline_block" align="center"><br>
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=fff">
-  <img src="https://img.shields.io/badge/CSS-42A5F5?style=for-the-badge&logo=css3&logoColor=fff">
+  <img src="https://img.shields.io/badge/CSS3-42A5F5?style=for-the-badge&logo=css3&logoColor=fff">
   <img src="https://img.shields.io/badge/SASS-CE679A?style=for-the-badge&logo=sass&logoColor=fff">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7E018?style=for-the-badge&logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=000">
